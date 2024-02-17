@@ -16,9 +16,9 @@ MYSQL_PASSWORD=""
 SSL_AVAILABLE=false
 Node_SSL_AVAILABLE=false
 Pterodactyl_conf="pterodactyl-no_ssl.conf"
-email=""
-user_username=""
-user_password=""
+email="vps@vultamnodes.com"
+user_username="root"
+user_password="root"
 email_regex="^(([A-Za-z0-9]+((\.|\-|\_|\+)?[A-Za-z0-9]?)*[A-Za-z0-9]+)|[A-Za-z0-9]+)@(([A-Za-z0-9]+)+((\.|\-|\_)?([A-Za-z0-9]+)+)*)+\.([A-Za-z]{2,})+$"
 
 installPhpMyAdmin() {
