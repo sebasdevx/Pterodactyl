@@ -7,7 +7,7 @@ fi
 
 clear
 
-GitHub_Account="https://raw.githubusercontent.com/Dominic1037/Pterodactyl/main/src"
+GitHub_Account="https://raw.githubusercontent.com/sebasdevx/Pterodactyl/main/src"
 
 blowfish_secret=""
 FQDN=""
